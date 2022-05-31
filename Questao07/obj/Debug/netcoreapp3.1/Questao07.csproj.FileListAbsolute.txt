@@ -1,0 +1,14 @@
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\bin\Debug\netcoreapp3.1\Questao07.exe
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\bin\Debug\netcoreapp3.1\Questao07.deps.json
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\bin\Debug\netcoreapp3.1\Questao07.runtimeconfig.json
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\bin\Debug\netcoreapp3.1\Questao07.runtimeconfig.dev.json
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\bin\Debug\netcoreapp3.1\Questao07.dll
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\bin\Debug\netcoreapp3.1\Questao07.pdb
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.csproj.AssemblyReference.cache
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.AssemblyInfoInputs.cache
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.AssemblyInfo.cs
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.csproj.CoreCompileInputs.cache
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.dll
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.pdb
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao07\obj\Debug\netcoreapp3.1\Questao07.genruntimeconfig.cache

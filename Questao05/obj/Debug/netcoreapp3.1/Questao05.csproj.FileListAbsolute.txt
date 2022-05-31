@@ -1,0 +1,28 @@
+C:\Users\bbarros\source\repos\Revisao02\Questao05\bin\Debug\netcoreapp3.1\Questao05.exe
+C:\Users\bbarros\source\repos\Revisao02\Questao05\bin\Debug\netcoreapp3.1\Questao05.deps.json
+C:\Users\bbarros\source\repos\Revisao02\Questao05\bin\Debug\netcoreapp3.1\Questao05.runtimeconfig.json
+C:\Users\bbarros\source\repos\Revisao02\Questao05\bin\Debug\netcoreapp3.1\Questao05.runtimeconfig.dev.json
+C:\Users\bbarros\source\repos\Revisao02\Questao05\bin\Debug\netcoreapp3.1\Questao05.dll
+C:\Users\bbarros\source\repos\Revisao02\Questao05\bin\Debug\netcoreapp3.1\Questao05.pdb
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.csproj.AssemblyReference.cache
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.AssemblyInfoInputs.cache
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.AssemblyInfo.cs
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.csproj.CoreCompileInputs.cache
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.dll
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.pdb
+C:\Users\bbarros\source\repos\Revisao02\Questao05\obj\Debug\netcoreapp3.1\Questao05.genruntimeconfig.cache
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\bin\Debug\netcoreapp3.1\Questao05.exe
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\bin\Debug\netcoreapp3.1\Questao05.deps.json
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\bin\Debug\netcoreapp3.1\Questao05.runtimeconfig.json
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\bin\Debug\netcoreapp3.1\Questao05.runtimeconfig.dev.json
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\bin\Debug\netcoreapp3.1\Questao05.dll
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\bin\Debug\netcoreapp3.1\Questao05.pdb
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.csproj.AssemblyReference.cache
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.AssemblyInfoInputs.cache
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.AssemblyInfo.cs
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.csproj.CoreCompileInputs.cache
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.dll
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.pdb
+C:\Users\apoio\Desktop\Curso - Back-end C# core\Revisão\RevisaoParte02\Questao05\obj\Debug\netcoreapp3.1\Questao05.genruntimeconfig.cache

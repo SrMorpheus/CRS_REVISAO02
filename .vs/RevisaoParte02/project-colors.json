@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7bdd8bf3-9e90-4d5e-b156-391a13ad388b": {
+      "ProjectGuid": "7bdd8bf3-9e90-4d5e-b156-391a13ad388b",
+      "DisplayName": "Questao06",
+      "ColorIndex": 0
+    },
+    "0ed39785-1d3a-47bc-b7a4-10cbbe5c90bf": {
+      "ProjectGuid": "0ed39785-1d3a-47bc-b7a4-10cbbe5c90bf",
+      "DisplayName": "Questao04",
+      "ColorIndex": 1
+    },
+    "13b9c9b3-5c41-4ce7-b9fc-6f4b8cd05eed": {
+      "ProjectGuid": "13b9c9b3-5c41-4ce7-b9fc-6f4b8cd05eed",
+      "DisplayName": "Questao02_03",
+      "ColorIndex": 2
+    },
+    "a68f28f3-ac0a-40a8-a1e6-19c8b7883dd4": {
+      "ProjectGuid": "a68f28f3-ac0a-40a8-a1e6-19c8b7883dd4",
+      "DisplayName": "Questao07",
+      "ColorIndex": 3
+    },
+    "fe3caae8-ddc3-4d02-a0e5-fb0c2f098bf9": {
+      "ProjectGuid": "fe3caae8-ddc3-4d02-a0e5-fb0c2f098bf9",
+      "DisplayName": "Questao05",
+      "ColorIndex": 4
+    },
+    "ae6030c9-a92e-44eb-a32c-4ff28a0f0bd7": {
+      "ProjectGuid": "ae6030c9-a92e-44eb-a32c-4ff28a0f0bd7",
+      "DisplayName": "Questao01",
+      "ColorIndex": 5
+    },
+    "22d49793-c5f5-4056-884e-8238502ce8c2": {
+      "ProjectGuid": "22d49793-c5f5-4056-884e-8238502ce8c2",
+      "DisplayName": "teste",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
