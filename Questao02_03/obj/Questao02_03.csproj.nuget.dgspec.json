@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao03\\Questao02_03.csproj": {}
+    "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao02_03\\Questao02_03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao03\\Questao02_03.csproj": {
+    "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao02_03\\Questao02_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao03\\Questao02_03.csproj",
+        "projectUniqueName": "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao02_03\\Questao02_03.csproj",
         "projectName": "Questao02_03",
-        "projectPath": "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao03\\Questao02_03.csproj",
+        "projectPath": "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao02_03\\Questao02_03.csproj",
         "packagesPath": "C:\\Users\\apoio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao03\\obj\\",
+        "outputPath": "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao02_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\apoio\\AppData\\Roaming\\NuGet\\NuGet.Config",
