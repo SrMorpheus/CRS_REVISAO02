@@ -35,6 +35,11 @@
       "ProjectGuid": "22d49793-c5f5-4056-884e-8238502ce8c2",
       "DisplayName": "teste",
       "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 7

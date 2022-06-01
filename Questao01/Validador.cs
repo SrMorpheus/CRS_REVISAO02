@@ -84,7 +84,7 @@ namespace Questao01
                     return false;
 
 
-                }else if(Regex.IsMatch(cpf, @"^[0-9](\w)\1"))
+                }else if(!ValidacaoCpfRepetido(cpf))
                 {
                     _errorCliente.ErrosCpf(4);
 
@@ -413,6 +413,29 @@ namespace Questao01
 
 
     }
+
+            private bool ValidacaoCpfRepetido(string cpf)
+        {
+            var isRepeated = true;
+
+            for (int i = 1; i < cpf.Length; i++)
+            {
+                if (cpf[0] != cpf[i])
+                {
+                    isRepeated = false;
+                    break;
+                }
+            }
+
+            if (isRepeated)
+            {
+                return false;
+            }
+
+            return true;
+
+
+        }
 
 
 
