@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RDEsSMQ7RlDihYa/Jdbq3pdFPqMO4rzSbqd1u08LOld0mcCdNk/w/zWg9munOt2uBzXwHpUouaQCVe+m6B0ETA==",
+  "dgSpecHash": "4eRb3VQd/xZ4n9G2xp86hhNLnH8vESFytNiDd7Q62V+ErAeCsuxEq6qjMkZDfn2/L9IPsa3tsJS/PvT4h+IzxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\apoio\\Desktop\\Curso - Back-end C# core\\Revisão\\RevisaoParte02\\Questao01\\Questao01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\apoio\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

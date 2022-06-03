@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
+using MoreLinq;
 
 namespace Questao01
 {
@@ -239,9 +240,10 @@ namespace Questao01
         public void ListaDeErros()
         {
 
-            
 
-            foreach (var lista in ListaError)
+            var listaFinal = ListaError.DistinctBy(x => x.DescricaoError);
+
+            foreach (var lista in listaFinal)
             {
 
                 Console.WriteLine(lista);
@@ -253,9 +255,12 @@ namespace Questao01
         public void ListaDeErros(ErrosCliente errosCliente)
         {
 
-            var listaNova = ListaError.Where(x => x.TipoErrosCliente == errosCliente);
+            var listaNova = ListaError.Where(x => x.TipoErrosCliente == errosCliente).Distinct();
 
-            foreach (var lista in listaNova)
+
+            var listaFinal = listaNova.DistinctBy(x => x.DescricaoError);
+
+            foreach (var lista in listaFinal)
             {
 
                 Console.WriteLine(lista);
